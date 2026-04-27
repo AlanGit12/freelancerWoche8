@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import ch.zhaw.freelancer4u.model.Job;
 import ch.zhaw.freelancer4u.model.JobType;
 
-// XXX Aufgabe 7a)
+
 public class FiveBucksVoucherTest {
 
     @Test

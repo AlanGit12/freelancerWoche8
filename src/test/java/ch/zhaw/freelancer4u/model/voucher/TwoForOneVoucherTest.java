@@ -13,7 +13,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import ch.zhaw.freelancer4u.model.Job;
 import ch.zhaw.freelancer4u.model.JobType;
 
-// XXX Aufgabe 7c)
+
 public class TwoForOneVoucherTest {
 
     @Test
